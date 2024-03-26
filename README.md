@@ -26,7 +26,7 @@ My name is Maria! Based in Portugal, I'm a full-stack web developer and motivate
 
 ## Currently learning
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++]([https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/-C++-blue?logo=cplusplus))
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 
 ## Stats
