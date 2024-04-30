@@ -3,6 +3,7 @@
 My name is Maria! Based in Portugal, I'm a full-stack web developer and motivated to create ❇️ Let's work together!
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-s-carvalho/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mariaportfolio.vercel.app/)
 
 ## Skills
 
